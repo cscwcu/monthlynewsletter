@@ -1,6 +1,6 @@
 # Math x CS Monthly Newsletter 💻
 
-Welcome to the **Math x CS Monthly Newsletter**! This newsletter is a monthly publication that aims to inform students about events and happenings in Western Carolina Unviersity's Math and Computer Science Department. This newsletter is written written and managed by the Computer Science Club at Western Carolina University and the Math Club.
+Welcome to the **Math x CS Monthly Newsletter**! This newsletter is a monthly publication that aims to inform students about events and happenings in Western Carolina Unviersity's Math and Computer Science Department. This newsletter is written and managed by the Computer Science Club at Western Carolina University and the Math Club.
 
 ## Current Issue 📅
 
