@@ -4,10 +4,11 @@ Welcome to the **Math x CS Monthly Newsletter**! This newsletter is a monthly pu
 
 ## Current Issue 📅
 
-**[MxCS Newsletter - March 2025](2025/2025-03.md)**
+**[Math x CS Monthly Newsletter - April/May 2025](2025/2025-04-05.md)**
 
 ## Past Issues 📚
 
+-   [MxCS Newsletter - March 2025](2025/2025-03.md)
 -   [MxCS Newsletter - February 2025](2025/2025-02.md)
 
 ## Copyright and License 📜
